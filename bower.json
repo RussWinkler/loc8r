@@ -1,0 +1,19 @@
+{
+  "name": "loc8r",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/RussWinkler/loc8r",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
